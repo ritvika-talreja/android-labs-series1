@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5-ActivityLifeCycleMethods</string>
+
+        <string name="ritvika_talreja">Ritvika Talreja</string>
+        <string name="register_number">2247155</string>
+        <string name="logcat">Logcat</string>
+        <string name="loading">Loading...</string>
+    </resources>
